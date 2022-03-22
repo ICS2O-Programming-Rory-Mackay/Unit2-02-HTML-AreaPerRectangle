@@ -1,0 +1,23 @@
+/* Created by: Rory Mackay
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-02-HTML-AreaPerRectangle
+*/
+
+body {
+	background-color: #ffa200;
+}
+
+h1 {
+	background-color: #ffdd00
+;
+	color: hsl(12, 100%, 40%)
+;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #fff700
+;
+}
